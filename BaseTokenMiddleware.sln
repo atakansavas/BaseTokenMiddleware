@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseTokenMiddleware", "BaseTokenMiddleware\BaseTokenMiddleware.csproj", "{DBCBC298-A6DB-47C9-8F74-5BEA9870D60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCBC298-A6DB-47C9-8F74-5BEA9870D60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCBC298-A6DB-47C9-8F74-5BEA9870D60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCBC298-A6DB-47C9-8F74-5BEA9870D60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCBC298-A6DB-47C9-8F74-5BEA9870D60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {075FC9E4-FF14-44FF-B5F3-8CB492B0415D}
+	EndGlobalSection
+EndGlobal
